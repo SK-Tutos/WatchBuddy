@@ -1,0 +1,12 @@
+Mentions et sites visités :
+    - Axios : https://axios-http.com/docs/intro
+    - Button de React Native : https://reactnative.dev/docs/button
+    - TouchableOpacity de React Native : https://reactnative.dev/docs/touchableopacity
+    - OMDb API : https://www.omdbapi.com/
+    - GraphQL : https://graphql.org/
+
+
+
+Lignes de commandes
+    `yarn add axios`
+    `yarn add @apollo/client graphql`

@@ -1,0 +1,10 @@
+Mentions et sites visités :
+    - AsyncStorage de React Native : https://reactnative.dev/docs/asyncstorage
+    - Packages asyncstorage communauté : https://reactnative.directory/?search=storage
+    - Documentation de @react-native-async-storage/async-storage : https://react-native-async-storage.github.io/async-storage/docs/install/
+    - Pressable de React Native : https://reactnative.dev/docs/pressable
+
+
+
+Lignes de commandes
+    `npx expo install @react-native-async-storage/async-storage`
