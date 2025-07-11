@@ -8,3 +8,9 @@ Mentions et sites visités :
 
 Lignes de commandes
     `npx expo install @react-native-async-storage/async-storage`
+
+
+
+Note : Utiliser l'application Expo Go en scannant le QRCode généré lors d'un `expo start` (ou dans le cas ce cours : `yarn ios`) pour lancer l'application sur n'importe quel appareil (iOS et Android).
+
+>> Code final disponible sur Github : https://github.com/SK-Tutos/WatchBuddy

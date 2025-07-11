@@ -10,3 +10,9 @@ Lignes de commandes
     `npx expo install react-native-safe-area-context`
     `npx expo install @react-navigation/bottom-tabs react-native-safe-area-context react-native-screens`
     `npx expo install @react-navigation/drawer react-native-gesture-handler react-native-reanimated`
+
+
+
+Note : Utiliser l'application Expo Go en scannant le QRCode généré lors d'un `expo start` (ou dans le cas ce cours : `yarn ios`) pour lancer l'application sur n'importe quel appareil (iOS et Android).
+
+>> Code final disponible sur Github : https://github.com/SK-Tutos/WatchBuddy

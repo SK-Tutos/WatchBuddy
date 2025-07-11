@@ -25,3 +25,9 @@ Lignes de commandes
     `yarn add @react-navigation/native-stack`
     `yarn add -D prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-import`
     `yarn add react-hook-form @hookform/resolvers yup`
+
+
+
+Note : Utiliser l'application Expo Go en scannant le QRCode généré lors d'un `expo start` (ou dans le cas ce cours : `yarn ios`) pour lancer l'application sur n'importe quel appareil (iOS et Android).
+
+>> Code final disponible sur Github : https://github.com/SK-Tutos/WatchBuddy
