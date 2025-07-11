@@ -52,7 +52,7 @@ npm install
 expo start
 ```
 
-📱 Scannez ensuite le QR code avec votre téléphone via Expo Go ou ouvrez dans un simulateur.
+📱 Scannez ensuite le QR code avec votre téléphone via Expo Go ou ouvrez dans un simulateur iOS ou Android.
 
 ---
 
@@ -72,18 +72,18 @@ expo start
 │   ├── constants/         # Constantes globales (couleurs, textes, configs)
 │   ├── contexts/          # Contextes React (état global, thèmes, etc.)
 │   ├── hooks/             # Hooks personnalisés (logique réutilisable)
-│   ├── navigation/        # Configuration de la navigation (stack, tabs, drawer)
-│   ├── screens/           # Écrans / vues de l'application (pages)
+│   ├── navigation/        # Configuration de la navigation 
+│   ├── screens/           # Écrans / vues de l'application
 │   ├── services/          # Appels API, clients GraphQL, fonctions réseau
 │   ├── types/             # Déclarations de types TypeScript
 │   └── utils/             # Fonctions utilitaires et helpers
 
 ├── App.tsx                # Point d’entrée principal de l’application
 ├── app.json               # Configuration Expo de l'application
-├── eslint.config.js       # Configuration ESLint (format .js recommandé par Expo)
+├── eslint.config.js       # Configuration ESLint
 ├── prettier.config.js     # Configuration Prettier
 ├── tsconfig.json          # Configuration TypeScript
-├── package.json           # Dépendances et scripts npm/yarn
+├── package.json           # Dépendances et scripts
 ├── yarn.lock              # Fichier de verrouillage Yarn     
 ├── README.md              # Documentation du projet
 ```
