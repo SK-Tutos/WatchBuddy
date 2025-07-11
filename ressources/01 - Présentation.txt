@@ -1,0 +1,19 @@
+Mentions et sites visités :
+    - React Native : https://reactnative.dev/
+    - React : https://fr.react.dev/
+    - Flutter : https://flutter.dev/
+    - Lynx : https://lynxjs.org/
+    - Expo : https://expo.dev/
+    - Typescript : https://www.typescriptlang.org/
+    - NVMSH : https://github.com/nvm-sh/nvm
+    - Expo Go : https://expo.dev/go
+    
+
+
+Lignes de commandes
+    `node -v`
+    `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash`
+    `nvm --version`
+    `nvm install --lts`
+    `npm install -g yarn`
+    `yarn global add expo-cli`

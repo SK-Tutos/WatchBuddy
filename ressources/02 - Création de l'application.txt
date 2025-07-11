@@ -1,0 +1,33 @@
+Mentions et sites visités :
+    - React Navigation : https://reactnavigation.org/
+    - Eslint : https://eslint.org/
+    - Prettier : https://prettier.io/
+    - Flexbox Froggy : https://flexboxfroggy.com/#fr
+    - React Hook Form : https://react-hook-form.com/
+    - React Hook Form resolvers : https://github.com/react-hook-form/resolvers
+    - Yup : https://github.com/jquense/yup
+    
+    
+
+Lignes de commandes
+    `npx create-expo-app WatchBuddy`
+    `cd WatchBuddy`
+    `yarn install && yarn ios`
+    `git init`
+    `git remote add origin [HTTPS_LINK OR SSH_LINK]`
+    `yarn remove expo-router`
+    `yarn remove @expo/vector-icons @react-navigation/bottom-tabs @react-navigation/elements expo-blur expo-font expo-constants expo-haptics expo-image expo-linking expo-status-bar expo-symbols expo-system-ui expo-web-browser react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-screens react-native-web react-native-webview`
+    `mkdir src`
+    `cd src`
+    `mkdir screens components constants navigation assets utils services contexts types hooks`
+    `yarn add @react-navigation/native`
+    `npx expo install react-native-screens react-native-safe-area-context`
+    `yarn add @react-navigation/native-stack`
+    `yarn add -D prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-import`
+    `yarn add react-hook-form @hookform/resolvers yup`
+
+
+
+Note : Utiliser l'application Expo Go en scannant le QRCode généré lors d'un `expo start` (ou dans le cas ce cours : `yarn ios`) pour lancer l'application sur n'importe quel appareil (iOS et Android).
+
+>> Code final disponible sur Github : https://github.com/SK-Tutos/WatchBuddy
