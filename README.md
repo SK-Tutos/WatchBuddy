@@ -30,7 +30,7 @@ Ce repo contient le code final complet présenté dans les vidéos. Il vous perm
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
-- ESLint & Prettier
+- [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
 
 ---
 
@@ -97,4 +97,4 @@ Et si le cours vous a plu, pensez à laisser un avis ⭐️ !
 
 🧑‍💻 Projet réalisé par SK-Tutos
 
-📘 Cours disponible sur [Udemy](https://www.udemy.com/course/react-native-expo-creez-votre-premiere-app-mobile)
+📘 Cours disponible sur [Udemy](https://www.udemy.com/course/react-native-expo-creez-votre-premiere-app-mobile/?referralCode=63569E0BA9A48E82B0D9)
